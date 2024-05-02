@@ -46,8 +46,6 @@ Example:
 }
 ```
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
 ### Useful resources
 
 - [FreeCodeCamp Resource](https://www.freecodecamp.org/news/css-box-shadow-property-with-examples/) - This helped me understand how box-shadows work and how to use them.
